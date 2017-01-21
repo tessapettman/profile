@@ -1,0 +1,28 @@
+body {
+	background-color: lightgray;
+	padding: 20px;
+}
+	.container1 {
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		text-align: center;
+
+	}
+
+	}
+	.container2 {
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		text-align: left;
+
+	}
+
+	.h1 {
+		size: 16;
+
+	}
+
+	.h2 {
+		size:8;
+	}
+
